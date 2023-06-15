@@ -10,17 +10,17 @@
 #box1{
     
     background-color: aqua;
-    
+    padding: 15px;
 }
 
 #box2{
     
     background-color:blueviolet;
-
+    padding: 25px;
 }
 
-#box2{
+#box3{
     
     background-color:blue;
-
+    padding: 50px;
 }
